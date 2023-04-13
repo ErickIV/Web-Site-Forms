@@ -1,0 +1,146 @@
+h1 {
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    }
+    
+    label {
+    font-weight: bold;
+    }
+    
+    .form-group {
+    margin-bottom: 20px;
+    }
+    
+    .btn {
+    margin-top: 20px;
+    margin-right: 10px;
+    }
+    
+    /* Estilos para o campo de resultado */
+    
+    #resultado {
+    margin-top: 50px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    }
+    
+    /* Estilos para o modo escuro */
+    
+    body.dark-mode {
+    background-color: #333;
+    color: #fff;
+    }
+
+    body.dark-mode h1 {
+    color: #fff;
+    }
+
+    body.dark-mode label {
+    color: #fff;
+    }
+
+    body.dark-mode .form-group {
+    color: #fff;
+    }
+
+    body.dark-mode .btn {
+    color: #fff;
+    }
+
+    body.dark-mode #resultado {
+    background-color: #333;
+    color: #fff;
+    border: 1px solid #fff;
+    }
+
+    body.dark-mode .btn-dark {
+    background-color: #fff;
+    color: #333;
+    }
+
+    body.dark-mode .btn-dark:hover {
+    background-color: #ccc;
+    color: #333;
+    }
+
+    body.dark-mode .btn-dark:focus {
+    background-color: #ccc;
+    color: #333;
+    }
+
+    body.dark-mode .btn-dark:active {
+
+    background-color: #ccc;
+    color: #333;
+    }
+
+    body.dark-mode .btn-dark:visited {
+    background-color: #ccc;
+    color: #333;
+    }
+
+    body.dark-mode .btn-dark:link {
+    background-color: #ccc;
+    color: #333;
+    }
+
+      /* Estilos para o modo claro */
+
+    body.light-mode {
+    background-color: #fff;
+    color: #333;
+    }
+
+    body.light-mode h1 {
+    color: #333;
+    }
+
+    body.light-mode label {
+    color: #333;
+    }
+
+    body.light-mode .form-group {
+    color: #333;
+    }
+
+    body.light-mode .btn {
+    color: #333;
+    }
+
+    body.light-mode #resultado {
+    background-color: #fff;
+    color: #333;
+    border: 1px solid #ccc;
+    }
+
+    body.light-mode .btn-light {
+    background-color: #333;
+    color: #fff;
+    }
+
+    body.light-mode .btn-light:hover {
+    background-color: #ccc;
+    color: #333;
+    }
+
+    body.light-mode .btn-light:focus {
+    background-color: #ccc;
+    color: #333;
+    }
+
+    body.light-mode .btn-light:active {
+    background-color: #ccc;
+    color: #333;
+    }
+
+    body.light-mode .btn-light:visited {
+    background-color: #ccc;
+    color: #333;
+    }
+
+    body.light-mode .btn-light:link {
+    background-color: #ccc;
+    color: #333;
+    }
